@@ -6,9 +6,9 @@ services:
       VERSION: "10"
       USERNAME: "Zuzzyyuu"
       PASSWORD: "VlqL123"
-      RAM_SIZE: "11G"
+      RAM_SIZE: "12G"
       CPU_CORES: "4"
-      DISK_SIZE: "1T"
+      DISK_SIZE: "15T"
     devices:
       - /dev/kvm
       - /dev/net/tun
